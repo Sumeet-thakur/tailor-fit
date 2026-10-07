@@ -1,0 +1,21 @@
+{
+  "fabrics": [],
+  "collars": [],
+  "cuffs": [],
+  "pockets": [],
+  "buttons": [
+    {
+      "id": "b1768564680306",
+      "name": "BTN1",
+      "image": "/uploads/1768564649755-413817069.webp",
+      "previewImage": "/uploads/1768564672898-706317842.png",
+      "fabricPreviewImages": {},
+      "backHalfFabricPreviewImages": {},
+      "backFullFabricPreviewImages": {},
+      "category": "button"
+    }
+  ],
+  "sleeves": [],
+  "plackets": [],
+  "backs": []
+}

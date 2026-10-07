@@ -1,0 +1,10 @@
+packages:
+  - .
+  - server
+
+onlyBuiltDependencies:
+  - '@swc/core'
+  - canvas
+  - core-js
+  - esbuild
+  - mongodb-memory-server

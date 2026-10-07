@@ -1,0 +1,17 @@
+[build]
+  command = "pnpm run build"
+  publish = "dist"
+
+# API Proxy: Redirects all /api requests to the Hostinger backend
+# Replace the placeholder with your actual Hostinger domain (e.g. https://tailorfit.pk)
+[[redirects]]
+  from = "/api/*"
+  to = "https://your-hostinger-backend-domain.com/api/:splat"
+  status = 200
+  force = true
+
+# SPA Fallback: Redirect all other routes to index.html for React Router
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

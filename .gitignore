@@ -1,0 +1,87 @@
+ios
+android
+outdated.txt
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.env*
+server/.env*
+.vercel/
+node_modules/
+dist/
+
+# Skills
+.agent
+.cursor
+.agent/
+.cursor/
+
+# Daily Task Update
+Daily_Task_Report.md
+
+TASK_COMPLETION_CHECKLIST.md
+MODULARIZATION_SUMMARY.md
+docs/*
+!docs/assets/
+
+
+
+# pnpm
+.pnpm-store
+
+tailor-fit-darosoft-assets/
+tailor-fit-darosoft-assets
+
+# Temp scripts & debug artifacts
+*.cjs
+*.mjs
+*.py
+!server/ecosystem.config.cjs
+products_debug.json
+server/build/
+test_glb.js
+patch_configurator.js
+
+
+# Root-level throwaway JS scripts
+/fix_*.js
+/check_*.js
+/fetch_*.js
+/recover_*.js
+server/get_mongo_urls*
+# 3D Assets
+public/models/
+public/hdri/
+
+# VPS Setup
+k6
+k6/*.json
+k6/*.csv
+!scripts/deploy-checklist.cjs
+
+# Local Config
+ngrok.yml
+blender-0.3.0.mcpb\n# Blender MCP Server binaries and cache\nblender-mcp-server/
+blender-mcp-server

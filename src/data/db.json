@@ -1,0 +1,204 @@
+{
+  "fabrics": [
+    {
+      "id": "f1767333520843",
+      "name": "Black",
+      "image": "/uploads/1767779475941-911457674.jpg",
+      "previewImage": "/uploads/1767343996707-264472186.png",
+      "colors": [
+        "#000000"
+      ]
+    },
+    {
+      "id": "f1767767041324",
+      "name": "Blue",
+      "image": "/uploads/1767778115529-224450522.jpg",
+      "previewImage": "/uploads/1767766993081-355280637.png",
+      "colors": [
+        "#4459a2"
+      ]
+    }
+  ],
+  "collars": [
+    {
+      "id": "c1767334473122",
+      "name": "C2",
+      "image": "/uploads/1767334470674-132920181.jpg",
+      "previewImage": "/uploads/1767344020116-265049187.png",
+      "category": "collar",
+      "fabricPreviewImages": {
+        "f1767767041324": "/uploads/1767767065187-71089555.png"
+      }
+    },
+    {
+      "id": "c1767334512226",
+      "name": "C3",
+      "image": "/uploads/1767334481024-827758910.jpg",
+      "previewImage": "/uploads/1767344049821-959182369.png",
+      "category": "collar",
+      "fabricPreviewImages": {
+        "f1767767041324": "/uploads/1767768536023-945683267.png"
+      }
+    },
+    {
+      "id": "c1767334598819",
+      "name": "C5",
+      "image": "/uploads/1767334553397-58285828.jpg",
+      "previewImage": "/uploads/1767344043656-321388402.png",
+      "category": "collar",
+      "fabricPreviewImages": {
+        "f1767767041324": "/uploads/1767768545220-819429729.png"
+      }
+    }
+  ],
+  "cuffs": [
+    {
+      "id": "c1767335811130",
+      "name": "CU1",
+      "image": "/uploads/1767335809135-974593940.webp",
+      "previewImage": "/uploads/1767590675135-116720292.png",
+      "category": "cuff",
+      "fabricPreviewImages": {
+        "f1767767041324": "/uploads/1767771204042-120032494.png"
+      }
+    },
+    {
+      "id": "c1767335841826",
+      "name": "CU2",
+      "image": "/uploads/1767335822014-917528968.webp",
+      "previewImage": "/uploads/1767591200736-132958079.png",
+      "category": "cuff",
+      "fabricPreviewImages": {
+        "f1767767041324": "/uploads/1767771222064-746758611.png"
+      }
+    },
+    {
+      "id": "c1767335881410",
+      "name": "CU3",
+      "image": "/uploads/1767335878318-911960905.webp",
+      "previewImage": "/uploads/1767591217772-270860014.png",
+      "category": "cuff",
+      "fabricPreviewImages": {
+        "f1767767041324": "/uploads/1767771239097-759125994.png"
+      }
+    },
+    {
+      "id": "c1767335944538",
+      "name": "CU5",
+      "image": "/uploads/1767335943521-516779776.webp",
+      "previewImage": "/uploads/1767591236967-272932903.png",
+      "category": "cuff",
+      "fabricPreviewImages": {
+        "f1767767041324": "/uploads/1767771255518-889478400.png"
+      }
+    }
+  ],
+  "pockets": [
+    {
+      "id": "p1767338523753",
+      "name": "No Pocket",
+      "image": "/uploads/1767338521440-113045420.webp",
+      "category": "pocket",
+      "previewImage": "/uploads/1767348728191-698478414.png",
+      "fabricPreviewImages": {
+        "f1767767041324": "/uploads/1767769982277-452966727.png"
+      }
+    },
+    {
+      "id": "p1767338532305",
+      "name": "Single Pocket",
+      "image": "/uploads/1767338531544-524050825.webp",
+      "category": "pocket",
+      "previewImage": "/uploads/1767349019697-969206539.png",
+      "fabricPreviewImages": {
+        "f1767767041324": "/uploads/1767770006612-192637512.png"
+      }
+    },
+    {
+      "id": "p1767338540777",
+      "name": "Double Pocket",
+      "image": "/uploads/1767338539934-731523291.webp",
+      "category": "pocket",
+      "previewImage": "/uploads/1767349026600-644646845.png",
+      "fabricPreviewImages": {
+        "f1767767041324": "/uploads/1767770019176-951891743.png"
+      }
+    }
+  ],
+  "buttons": [
+    {
+      "id": "b1767350414127",
+      "name": "BTN1",
+      "image": "/uploads/1767350401163-711715216.jpg",
+      "previewImage": "/uploads/1767351327030-527708356.png",
+      "category": "button"
+    },
+    {
+      "id": "b1767350422823",
+      "name": "BTN2",
+      "image": "/uploads/1767350422024-761092550.jpg",
+      "previewImage": "/uploads/1767351331762-424993001.png",
+      "category": "button"
+    },
+    {
+      "id": "b1767350431238",
+      "name": "BTN3",
+      "image": "/uploads/1767350430532-494932299.jpg",
+      "previewImage": "/uploads/1767351336152-587900339.png",
+      "category": "button"
+    },
+    {
+      "id": "b1767350438607",
+      "name": "BTN4",
+      "image": "/uploads/1767350437728-476129028.jpg",
+      "previewImage": "/uploads/1767351341270-325453956.png",
+      "category": "button"
+    }
+  ],
+  "sleeves": [
+    {
+      "id": "s1767336419770",
+      "name": "Full Sleeve",
+      "image": "/uploads/1767336409816-823030345.webp",
+      "previewImage": "/uploads/1767777093714-331314442.png",
+      "category": "sleeve",
+      "fabricPreviewImages": {
+        "f1767767041324": "/uploads/1767777102379-986624365.png",
+        "f1767333520843": "/uploads/1767777097612-632249867.png"
+      },
+      "backHalfFabricPreviewImages": {},
+      "backFullFabricPreviewImages": {}
+    },
+    {
+      "id": "s1767336446682",
+      "name": "Half Sleeves",
+      "image": "/uploads/1767336445318-922531472.webp",
+      "previewImage": "/uploads/1767777112104-804538079.png",
+      "category": "sleeve",
+      "fabricPreviewImages": {
+        "f1767333520843": "/uploads/1767777116307-719357078.png",
+        "f1767767041324": "/uploads/1767777121783-945009055.png"
+      },
+      "backHalfFabricPreviewImages": {},
+      "backFullFabricPreviewImages": {}
+    }
+  ],
+  "plackets": [],
+  "backs": [
+    {
+      "id": "b1767591790587",
+      "name": "Back",
+      "image": "/uploads/1767591784770-221827582.jpg",
+      "previewImage": "/uploads/1767591909844-907333692.jpg",
+      "category": "back",
+      "fabricPreviewImages": {
+        "f1767767041324": "/uploads/1767767858392-921053049.png"
+      },
+      "backHalfFabricPreviewImages": {
+        "f1767333520843": "/uploads/1767772450289-58662873.png",
+        "f1767767041324": "/uploads/1767772461953-137211397.png"
+      },
+      "backFullFabricPreviewImages": {}
+    }
+  ]
+}
