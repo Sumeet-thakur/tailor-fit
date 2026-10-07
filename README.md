@@ -115,6 +115,6 @@ To protect project integrity and specialized workflows, detailed setup and deplo
 ---
 
 
-**Tailor Fit** — Maintained & Developed by Sandeep.  
+**Tailor Fit**.  
 Built across 103 engineering phases · [Full History →](./CHANGELOG.md)
 
